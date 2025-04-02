@@ -7,8 +7,8 @@ export const energeticos = [
   },
   {
     name: "Red Bull Energy Drink 250ml",
-    description: "Red Bull Energy Drink 250ml - 6 Unidades - R$ 9,18",
-    price: 55.08,
+    description: "Red Bull Energy Drink 250ml - 6 Unidades - R$ 9,00",
+    price: 54.00,
     image: "https://i.ibb.co/YT2zpMMb/39.png",
   },
   {
@@ -19,14 +19,14 @@ export const energeticos = [
   },
   {
     name: "Schweppes Tônica 350ml",
-    description: "Schweppes Tônica 350ml - 6 Unidades - R$ 3,99",
-    price: 23.94,
+    description: "Schweppes Tônica 350ml - 6 Unidades - R$ 4,25",
+    price: 25.50,
     image: "https://i.ibb.co/3NvNjmg/42.png",
   },
   {
     name: "Schweppes Tônica Leve em Açúcar 350ml",
-    description: "Schweppes Tônica Leve em Açúcar 350ml - 6 Unidades - R$ 3,99",
-    price: 23.94,
+    description: "Schweppes Tônica Leve em Açúcar 350ml - 6 Unidades - R$ 4,25",
+    price: 25.50,
     image: "https://i.ibb.co/cKHrZDK7/9.png",
   },
 ];
